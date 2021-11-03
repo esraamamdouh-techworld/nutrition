@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  nutritionApi : ' https://api.edamam.com/api/nutrition-details'
 };
